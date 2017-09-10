@@ -49,9 +49,9 @@ body {
 
 .p4_linetitle{
   height: 47px;
-  margin: auto;
+  margin: 10px auto;
   background-color:#FA9DAF;
-  padding: 30px;
+  padding: 10px;
   color: #FFFFFF;
   font-size: 21px;
   text-align: center;
